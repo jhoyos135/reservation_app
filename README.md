@@ -1,6 +1,7 @@
 # Reservation App
 
-#Instructions
+# Instructions
+
 Clone repo\
 npm install\
 Create database running MySQL Query
