@@ -71,8 +71,9 @@ runWaitListQuery();
 // submit form 
     submit.addEventListener('submit', (e) => {
         e.preventDefault();
-        fetchData()
-        
+        fetchData();
+        alert('added to reservations!')
+        window.location.replace("/tables");
     });
 
 });
